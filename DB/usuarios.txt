@@ -1,0 +1,2 @@
+UserName: Jonathan Cruz , IdNumber: 1014268580, Age: 29, AffiliationCategory: A, Discount: 4500.0, Total Price: 25500.0
+UserName: Jonathan Cruz , IdNumber: 1014268580, Age: 29, AffiliationCategory: B, Discount: 9000.0, Total Price: 21000.0
